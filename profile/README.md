@@ -1,3 +1,1 @@
-HydronMind
-
 Hello there!
